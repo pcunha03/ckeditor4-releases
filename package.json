@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor4",
+  "name": "ckeditor",
   "version": "4.16.2",
   "description": "JavaScript WYSIWYG web text editor.",
   "main": "ckeditor.js",
